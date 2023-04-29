@@ -10,7 +10,7 @@ Aplicação exibe na tela um perfil que precisa ser completado. Possui um input 
 
 <img src=./assets/img/gif.gif>
 
-Na página apresentada é possível ver um aviso para preencher o perfil. Também é possível ver as informações do perfil, a foto, nome da pessoa, onde reside e o número de estralas e avaliações.
+Na página apresentada é possível ver um aviso para preencher o perfil. Também é possível ver as informações do perfil, a foto, nome da pessoa, onde reside e o número de estrelas e avaliações.
 
 Mais abaixo temos um link para levar para outra página onde se pode completar o perfil (o link leva para outra página, mas o intuito do projeto era só fazer a pagina do perfil)
 
